@@ -1,8 +1,8 @@
 {
-  "ios_minimum_version": "1.0.7",
-  "android_minimum_version": "1.0.7",
-  "latest_android_version": "1.0.7",
-  "latest_ios_version": "1.0.7",
+  "ios_minimum_version": "1.0.8",
+  "android_minimum_version": "1.0.8",
+  "latest_android_version": "1.0.8",
+  "latest_ios_version": "1.0.8",
   "extra": {
     "force_update": true,
     "release_notes": {
